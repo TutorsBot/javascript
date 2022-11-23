@@ -1,0 +1,25 @@
+{
+  "name": "1-js-class",
+  "version": "1.0.0",
+  "description": "JavaScript code projects for the App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Front",
+    "End",
+    "Development",
+    "JavaScript",
+    "Practice",
+    "Code"
+  ],
+  "author": "TutorsBot",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
