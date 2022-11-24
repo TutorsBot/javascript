@@ -35,14 +35,14 @@
 
 // sample();
 
-// function sample(a,b, ...c){
-//     var sum = a + b;
-//     for(i = 0; i < c.length ; i++){
-//         sum = sum + c[i]
-//     }
-//     console.log(sum)
-//     // console.log(a, b, c)
-// }
+function sample(a,b, ...c){
+    var sum = a + b;
+    for(i = 0; i < c.length ; i++){
+        sum = sum + c[i]
+    }
+    console.log(sum)
+    // console.log(a, b, c)
+}
 
 // sample(2, 4, 5, 6, 7, 8)
 
